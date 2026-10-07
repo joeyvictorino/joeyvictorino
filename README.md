@@ -20,3 +20,7 @@ Edge-inference numbers for small open-weight models on Apple silicon (llama.cpp 
 ## Writing
 
 Field notes at [joeyvictorino.com/field-notes](https://joeyvictorino.com/field-notes/).
+
+## Upstream
+
+- volatility3: [PR #2045](https://github.com/volatilityfoundation/volatility3/pull/2045) makes linked-list walks report an unreadable node instead of silently returning a shorter list. Forensic parsers should fail closed.
