@@ -11,7 +11,7 @@ I architect agentic security systems that can be audited and operated at scale. 
 | [orbit-ir](https://github.com/joeyvictorino/orbit-ir) | Reconciles AI-agent transcripts against control-plane records; findings carry file and line references; precision and recall only when ground truth exists | v0.2.0 |
 | [phylaram](https://github.com/joeyvictorino/phylaram) | Live physical-memory acquisition for Windows with byte-accurate error isolation and an independent offline verifier | alpha |
 
-The post-quantum line in my bio refers to a peer mesh I architected that secures node-to-node WebSocket links with ML-KEM-768 key exchange and ML-DSA-65 mutual authentication, with trust-gated data transfer. The public design documentation for that platform is linked from [joeyvictorino.com](https://joeyvictorino.com).
+The post-quantum line in my bio refers to a peer mesh I architected that secures node-to-node WebSocket links with ML-KEM-768 key exchange and ML-DSA-65 mutual authentication, with trust-gated data transfer. I wrote that platform's public design documentation; the architecture is summarized, without naming the product, on [joeyvictorino.com](https://joeyvictorino.com).
 
 ## Benchmarks
 
