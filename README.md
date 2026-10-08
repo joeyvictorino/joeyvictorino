@@ -6,7 +6,7 @@ I architect agentic security systems that can be audited and operated at scale. 
 
 | Repo | What it proves | Status |
 |---|---|---|
-| [assay](https://github.com/joeyvictorino/assay) | Multi-model continuous security-validation harness: provider routing with failover and budgets, Ed25519-signed tools with a trust store, deny-wins policy engine, AES-256-GCM hash-chained audit log, zero data retention as a tested property, cross-model overlap measurement on authorized labs | in progress, public from day one |
+| [assay](https://github.com/joeyvictorino/assay) | Multi-model continuous security-validation harness: provider routing with failover and budgets, Ed25519-signed tools with a trust store, deny-wins policy engine, AES-256-GCM hash-chained audit log, zero data retention as a tested property, cross-model overlap measurement on authorized labs | v0.2.0 released; CI runs it against three labs. No multi-model result published yet |
 | [tasia](https://github.com/joeyvictorino/tasia) | Fail-closed configuration review for private-AI stacks (Go); evidence never carries secret values by construction | released |
 | [orbit-ir](https://github.com/joeyvictorino/orbit-ir) | Reconciles AI-agent transcripts against control-plane records; findings carry file and line references; precision and recall only when ground truth exists | v0.2.0 |
 | [phylaram](https://github.com/joeyvictorino/phylaram) | Live physical-memory acquisition for Windows with byte-accurate error isolation and an independent offline verifier | alpha |
